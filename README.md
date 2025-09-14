@@ -32,7 +32,3 @@ Ao projetar infraestruturas na nuvem, é essencial:
 - Avaliar o SLA exigido pelo negócio 📈.  
 - Balancear custo e disponibilidade ⚖️.  
 - Escolher a redundância de armazenamento adequada 🔑.
-
----
-
-> 💡 **Dica:** Ajuste este README conforme for evoluindo seu projeto ou adicione exemplos de código/print screens do Azure.
